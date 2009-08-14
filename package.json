@@ -1,0 +1,7 @@
+{
+    "name": "doctest",
+    "author": "Tim Schaub",
+	"description": "Provides testmod and testfile methods for Rhino doctest.",
+    "dependencies": [],
+    "contributors": []
+}
